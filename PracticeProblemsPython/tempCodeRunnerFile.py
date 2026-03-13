@@ -1,3 +1,2 @@
-if num != "":
-#     if int(num) % 2 == 0:
-#         count += 1
+e1 = Employee("accountant", "Finance", "60,000")
+# e1.showDetail()

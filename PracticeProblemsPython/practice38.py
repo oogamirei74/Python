@@ -21,4 +21,4 @@ def check_for_line():
     
     return -1
 
-check_for_line()
+print(check_for_line())
