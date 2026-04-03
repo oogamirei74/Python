@@ -9,4 +9,4 @@ class Order:
 odr1 = Order("chips", 20)
 odr2 = Order("tea", 10)
 
-print(odr1 > odr2)
+print(odr1 > odr2) #true
